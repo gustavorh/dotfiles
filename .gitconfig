@@ -1,0 +1,6 @@
+[user]
+	name = Gustavo Reyes
+	email = gustavo.reyes@tutanota.com
+[core]
+	editor = code --wait
+	autocrlf = input
