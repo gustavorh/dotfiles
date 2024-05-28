@@ -1,3 +1,9 @@
+# ZSH Plugins (brew)
+```
+zsh-autosuggestions
+zsh-syntax-highlighting
+```
+
 # VS Code Extensions
 ```
 enkia.tokyo-night
