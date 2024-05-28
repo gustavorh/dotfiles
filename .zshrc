@@ -37,3 +37,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias ll="ls -ll"
 alias la="ls -al"
+
+# ZSH Plugins
+source $HOMEBREW_PREFIX/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOMEBREW_PREFIX/share/zsh-autosuggestions/zsh-autosuggestions.zsh
